@@ -111,7 +111,7 @@
             </router-link>
           </div>
           <div class="more-items">
-            <router-link to="trangchu.html">Xem tất cả sản phẩm =></router-link>
+            <router-link to="/sanpham">Xem tất cả sản phẩm =></router-link>
           </div>
         </div>
       </div>
