@@ -1,5 +1,7 @@
 ĐỒ ÁN WEB BÁN HÀNG: NHÓM 6
 
+video demo link: https://drive.google.com/file/d/1ibHzJaz9-ce2Zfml9OZiItgP4QaEAdks/view?usp=sharing
+
 
 This project based in Python 3.10.4 with following libs:
 backend python: 
