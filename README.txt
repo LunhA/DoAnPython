@@ -1,3 +1,6 @@
+ĐỒ ÁN WEB BÁN HÀNG: NHÓM 6
+
+
 This project based in Python 3.10.4 with following libs:
 backend python: 
 pip install Flask
